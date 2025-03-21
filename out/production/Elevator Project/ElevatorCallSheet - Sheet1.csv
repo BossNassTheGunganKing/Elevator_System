@@ -1,0 +1,7 @@
+Time,Floor,Floor Button,Car Button,error
+,,,
+00:00:10,1,Up,4,G
+00:00:13,2,Up,4,TimeMiss
+00:00:15,1,Up,2,DoorStuckOpen
+00:00:15,1,Up,2,DoorStuckClose
+00:00:20,3,Down,2,G
