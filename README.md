@@ -81,6 +81,8 @@ First, open your terminal and navigate to the project's root directory. Then do 
 ## Credits
 ___
 
+- Quinton Tracey 
+
 - Jestan Brar
 
 - Daniel Godfrey
@@ -89,6 +91,6 @@ ___
 
 - Saad Sheikh
 
-- Quinton Tracey 
+
 
 
